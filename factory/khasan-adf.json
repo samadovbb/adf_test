@@ -1,0 +1,9 @@
+{
+	"name": "khasan-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ddad0f0-edd3-4dbc-a139-444bd2f7c82d",
+		"tenantId": "5adea3ad-c40b-4229-b1cd-817916cf77ad"
+	}
+}
